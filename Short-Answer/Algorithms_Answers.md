@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a)
+a) O(n), because runtime is directly proportional to the size of n
 
 
-b)
+b) O(log n), because as n increases, the for loop directly increases, but the while loop increases more slowly. ie- n=3, while loop will run 2x, n=4, while loop will still run 2x, n=5 while loop will then run 3x
 
 
-c)
+c) O(n), because runtime is directly proportional to the size of n
 
 ## Exercise II
 Start from the middle floor (given 100 floors, current_floor=50)
